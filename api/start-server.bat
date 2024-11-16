@@ -1,1 +1,1 @@
-json-server -w rec-hockey-service.json
+json-server -w rec-hockey-api-db.json
